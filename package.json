@@ -1,0 +1,26 @@
+{
+  "name": "phoenix_discord_bot-public",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "author": "mrganmak",
+  "license": "ISC",
+  "dependencies": {
+    "@discordx/importer": "^1.1.2",
+    "@types/express": "^4.17.13",
+    "body-parser": "^1.19.1",
+    "discord.js": "^13.6.0",
+    "discordx": "^9.1.12",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "typescript": "^4.5.5"
+  },
+  "description": ""
+}
